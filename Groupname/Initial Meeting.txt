@@ -1,0 +1,19 @@
+Initial Meeting-(Date:02/03/2023):
+
+Time: 11:00 AM to 12:30PM 
+
+Attendees: Name1, Name2, Name3, Name4, Name5 and Name6.
+
+Things discussed:
+
+	First the team elected the team lead to manage the team and keep the project on track and complete ontime..
+	
+	The projects which are proposed are the eshopping website and Hospital Management site and the team finalized the eshopping site project.
+	
+	Later team discussed on the technologies they are comfortable with and confirmed the technology to be used as Django with Python to develop the site locally.
+
+	Now, team checked the deadlines and discussed on the deadlines for each task and updated the report.
+
+	Created the report with all the points and also created power point presentation.
+
+	Discussed on the risks and roles of each team member.
