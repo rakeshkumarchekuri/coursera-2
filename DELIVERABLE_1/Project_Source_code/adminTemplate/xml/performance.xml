@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<performanceContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <performanceTitles>Performance Management</performanceTitles>
+    <performanceType>
+    <performanceData>
+
+
+        <performanceImagea>correct.png</performanceImagea>
+        <performanceHeadinga>Goal Setting</performanceHeadinga>
+               <performanceImg>Arrow.png</performanceImg>
+
+
+
+        <performanceImageb>correct.png</performanceImageb>
+        <performanceHeadingb>Draft Goals</performanceHeadingb>
+
+
+        <performanceHeadingc>Approve Goals</performanceHeadingc>
+
+
+        <performanceHeadingd>Mid Year Check-In</performanceHeadingd>
+
+
+        <performanceHeadinge>Year End</performanceHeadinge>
+
+
+
+
+        </performanceData>
+        </performanceType>
+
+
+
+</performanceContent>

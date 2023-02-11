@@ -1,0 +1,11 @@
+.image-main {
+    padding-left: 0px !important;
+    margin-top: 5px;
+}
+
+@media only screen and (max-width: 992px) {
+    .image-main {
+        padding: 0px;
+        margin-top: 3px;
+    }
+}

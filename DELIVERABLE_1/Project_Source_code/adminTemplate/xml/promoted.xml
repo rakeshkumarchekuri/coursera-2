@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<promotedContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <promotedTitles>Promoted Activities</promotedTitles>
+    <promotedType>
+    <promotedData>
+        <promotedImage>home.png</promotedImage>
+        <promotedHeading>The AARP Minute</promotedHeading>
+         <promotedPara>In today's AARP Minute,"The centers for disease control and prevention has... </promotedPara>
+            </promotedData>
+    </promotedType>
+
+    <promotedType>
+    <promotedData>
+        <promotedImage>home.png</promotedImage>
+        <promotedHeading>The AARP Minute</promotedHeading>
+         <promotedPara>In today's AARP Minute,"The centers for disease control and prevention has... </promotedPara>
+       </promotedData>
+    </promotedType>
+
+<promotedType>
+    <promotedData>
+        <promotedImage>home.png</promotedImage>
+        <promotedHeading>The AARP Minute</promotedHeading>
+         <promotedPara>In today's AARP Minute,"The centers for disease control and prevention has... </promotedPara>
+            </promotedData>
+    </promotedType>
+
+</promotedContent>

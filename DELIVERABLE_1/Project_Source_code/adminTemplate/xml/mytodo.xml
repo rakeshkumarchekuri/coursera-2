@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mytodoContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mytodoTitles>My To Do</mytodoTitles>
+    <mytodoType>
+    <mytodoData>
+        <mytodoImage>patient10.png</mytodoImage>
+        <mytodoInprogress>INPROGRESS</mytodoInprogress>
+        <mytodoHeading>MOBILE WEB DESIGH AND DEVELOPMENT</mytodoHeading>
+         <mytodoDate>DUE DATE : NOV 2021</mytodoDate>
+         <mytodoStart>Start</mytodoStart>
+        </mytodoData>
+         
+    <mytodoData>
+        <mytodoImage>patient12.jpg</mytodoImage>
+        <mytodoInprogress>REGISTRED</mytodoInprogress>
+        <mytodoHeading>STRATEGY AND DESIGN IN USER EXPERIENCE</mytodoHeading>
+         <mytodoDate>DUE DATE : NOV 2021</mytodoDate>
+         <mytodoStart>Start</mytodoStart>
+        </mytodoData>
+        
+        <mytodoData>
+        <mytodoImage>patient6.jpg</mytodoImage>
+        <mytodoInprogress>INPROGRESS</mytodoInprogress>
+        <mytodoHeading>BUILD AND SUSTAIN CUSTOMER LOYALTY</mytodoHeading>
+         <mytodoDate>DUE DATE : NOV 2021</mytodoDate>
+         <mytodoStart>Start</mytodoStart>
+        </mytodoData>
+         </mytodoType>
+</mytodoContent>

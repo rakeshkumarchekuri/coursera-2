@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<libraryContent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <libraryTitles>Library</libraryTitles>
+    <libraryType>
+    <libraryData>
+        <libraImage>2.png</libraImage>
+        <libraryPara>AARP COMPETENCIES</libraryPara>
+    </libraryData>
+    </libraryType>
+
+ <libraryType>
+    <libraryData>
+        <libraImage>4.png</libraImage>
+        <libraryPara>AARP LEADERSHIP DEVELOPMENT</libraryPara>
+    </libraryData>
+    </libraryType>
+
+     <libraryType>
+    <libraryData>
+        <libraImage>6.png</libraImage>
+        <libraryPara>DIVERSITY,EQUITY AND INCLUSION</libraryPara>
+    </libraryData>
+    </libraryType>
+
+     <libraryType>
+    <libraryData>
+        <libraImage>7.png</libraImage>
+        <libraryPara>PERFORMANCE MANAGEMENT EMPLOYEES</libraryPara>
+    </libraryData>
+    </libraryType>
+
+     <libraryType>
+    <libraryData>
+        <libraImage>8.png</libraImage>
+        <libraryPara>PERFORMANCE MANAGEMENT FORMANAGERS</libraryPara>
+    </libraryData>
+    </libraryType>
+
+     <libraryType>
+    <libraryData>
+        <libraImage>9.png</libraImage>
+        <libraryPara>AARP COMPETENCIES DEVELOPMENT</libraryPara>
+    </libraryData>
+    </libraryType>
+
+</libraryContent>
